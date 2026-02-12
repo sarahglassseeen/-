@@ -186,9 +186,9 @@ BOT_CONFIG = {
 }
 ```
 
-### 3. Chạy DescribeImage API Server
+### 3. Chạy PUNI PRO API Server
 ```bash
-python describeimage_api_server.py
+python punipro_api_server.py
 # Server chạy trên http://localhost:5004
 ```
 
