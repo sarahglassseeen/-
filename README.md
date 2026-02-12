@@ -176,15 +176,6 @@ API_ID = 'your_api_id'
 API_HASH = 'your_api_hash'
 PHONE = '+84xxxxxxxxx'
 
-# OpenRouter API Keys (7 keys for rotation)
-OPENROUTER_API_KEYS = [
-    'sk-or-v1-...',
-    'sk-or-v1-...',
-    # ... 7 keys total
-]
-
-# Vivibe TTS Token
-VIVIBE_AUTH_TOKEN = "eyJhbGc..."
 
 # Owner ID
 BOT_CONFIG = {
